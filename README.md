@@ -1,2 +1,3 @@
 # TASK-2
-Superstore Sales Data Visualization
+Superstore Sales Data Visualization <Br>
+This Tableau dashboard project analyzes retail data from the Superstore Sales dataset (sourced from Kaggle) to uncover key business insights. The analysis focuses on segment-wise sales, regional profit trends, sub-category performance, and the bottom 10 products by sales. Key findings show that the Consumer segment leads in revenue, while the South region has high sales but low profits. Several office supply items were found to underperform. The project recommends optimizing costs in the South and addressing low-performing products to improve overall profitability.
