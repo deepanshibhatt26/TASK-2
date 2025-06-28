@@ -1,5 +1,4 @@
-# TASK-2
-Superstore Sales Data Visualization 
+# Superstore Sales Data Visualization 
 
 ## 📌 Project Overview
 
